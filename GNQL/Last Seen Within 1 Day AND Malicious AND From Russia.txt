@@ -1,0 +1,1 @@
+last_seen:>1d AND classification:malicious AND metadata.country_code:RU
